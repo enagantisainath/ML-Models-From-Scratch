@@ -1,2 +1,5 @@
-# ML-Models-From-Scratch
-Machine Learning Models - Developed from scratch (Python)
+# ML-and-DL-Models
+
+Machine learning and Deep learning Algorithms ( from scratch )<br>
+
+
